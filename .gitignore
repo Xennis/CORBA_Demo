@@ -1,0 +1,21 @@
+############
+## C++
+############
+
+# Compiled object files
+*.o
+
+
+############
+## Java
+############
+
+# Compiled object files
+*.class
+
+
+############
+## Python
+############
+
+*.pyc
